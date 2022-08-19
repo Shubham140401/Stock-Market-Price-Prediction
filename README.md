@@ -1,2 +1,1 @@
-# Stock-Market-Price-Prediction
-ARIMA, LSTM, and Linear Regression
+# Stock-Market-Price-Prediction-
